@@ -206,7 +206,7 @@ if &t_Co > 255
   highlight CursorLine      ctermfg=none    ctermbg=236     cterm=none
   highlight ColorColumn     ctermfg=none    ctermbg=236     cterm=none
   highlight Cursor          ctermfg=0       ctermbg=254     cterm=none
-  highlight Comment         ctermfg=244     ctermbg=none    cterm=none
+  highlight Comment         ctermfg=240     ctermbg=none    cterm=none
   highlight Constant        ctermfg=180     ctermbg=none    cterm=none
   highlight Special         ctermfg=176     ctermbg=none    cterm=none
   highlight Identifier      ctermfg=80      ctermbg=none    cterm=none
